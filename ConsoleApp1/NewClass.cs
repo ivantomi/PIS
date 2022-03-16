@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    class NewClass
+    class NewClas
     {
         static void Main(string[] args)
         {
